@@ -1,5 +1,4 @@
 # **DS625 Project Team 01**
-# **Hybrid Recommendation System Project**
 
 This project is developed as part of the **DS625_01_ON: Big Data Architectures/Systems - USADL - Fall 2024-2025** course at the **City University of Seattle**.
 
