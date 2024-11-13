@@ -14,10 +14,10 @@ This paper presents a concrete project that demonstrates using Apache Spark for 
 
 ## **Datasets**
 
-- **Darwin's Finches Evolution Dataset:** <https://www.kaggle.com/datasets/crbelhekar619/darwins-finches-evolution-dataset>
-- **Hybridization fluctuates with rainfall in Darwin's tree finches:** <https://datadryad.org/stash/dataset/doi:10.5061/dryad.ttdz08ktq>
-- **40 years of evolution. Darwin's finches on Daphne Major Island:** <https://datadryad.org/stash/dataset/doi:10.5061/dryad.g6g3h>
-- **Darwin's finch foraging behaviour and naris size:** <https://datadryad.org/stash/dataset/doi:10.5061/dryad.2z34tmpk9>
+- (data/kaggle) **Darwin's Finches Evolution Dataset:** <https://www.kaggle.com/datasets/crbelhekar619/darwins-finches-evolution-dataset>
+- (data/hybrid) **Hybridization fluctuates with rainfall in Darwin's tree finches:** <https://datadryad.org/stash/dataset/doi:10.5061/dryad.ttdz08ktq>
+- (data/daphne) **40 years of evolution. Darwin's finches on Daphne Major Island:** <https://datadryad.org/stash/dataset/doi:10.5061/dryad.g6g3h>
+- (data/forage) **Darwin's finch foraging behaviour and naris size:** <https://datadryad.org/stash/dataset/doi:10.5061/dryad.2z34tmpk9>
 
 ## **Acknowledgments**
 
