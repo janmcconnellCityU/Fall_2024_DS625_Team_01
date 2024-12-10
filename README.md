@@ -21,4 +21,4 @@ This paper presents a concrete project that demonstrates using Apache Spark for 
 
 ## **Acknowledgments**
 
-We would like to thank our instructor, **Professor Marcelo Guerra Hahn**, and **City University of Seattle** for providing the resources and guidance needed to complete this project.
+We would like to thank **City University of Seattle** for providing the resources needed to complete this project.
